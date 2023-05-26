@@ -1,0 +1,4 @@
+runtime: node16
+entrypoint: node src/index.js
+ports:
+  - containerPort: 8080

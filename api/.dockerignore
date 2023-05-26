@@ -1,0 +1,6 @@
+node_modules
+.gitignore
+jsconfig.json
+Dockerfile
+docker-compose.yml
+.dockerignore
